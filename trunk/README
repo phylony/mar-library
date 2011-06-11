@@ -1,0 +1,20 @@
+Project Structure:
+bin - Contains resources created when building the project
+doc - Contains source code documentation
+guides - Contains guides for installing the MAR library and running Lighthouse
+papers - Contains white papers written on the MAR library
+res - Contains resources used by the Lighthouse application
+src - Contains the source code for the MAR library and Lighthouse
+Doxyfile - Used to created Doxygen documentation
+Makefile - Used to build the project 
+LICENSE - The license this project is released under
+CREDITS - Contains credits for the project
+
+Makefile:
+mar - Builds the MAR library
+install - Builds the MAR library and installs it
+lighthouse - Builds the Lighthouse application
+test - Builds the Lighthouse application and runs it
+documentation - Builds source code documentation
+uninstall - Uninstalles the MAR library
+clean - Cleans the project
