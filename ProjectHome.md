@@ -1,0 +1,1 @@
+The Markerless Augmented Reality (MAR) library allows users to create two-dimensional augmentations on affine surfaces in a scene using only a camera and a computer.  The library is designed to be simple to use and includes an application called Lighthouse to test augmenting the users environment.
